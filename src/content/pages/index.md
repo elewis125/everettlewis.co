@@ -8,4 +8,4 @@ cta:
   ctaText: Learn More
   ctaLink: /about
 ---
-Aspiring media professional actively seeking internship opportunities for summer 2021. Graduating from Cinema Studies at NYU Tisch in Fall 2021 with minors in Business of Media, Entertainment, and Technology at Stern and Psychology at College of Art and Sciences.
+Aspiring media professional actively seeking internship opportunities for Fall 2021. Graduating from Cinema Studies at NYU Tisch in December 2021 with minors in BEMT (Business of Entertainment, Media, and Technology) at Stern and Psychology at College of Art and Sciences.
