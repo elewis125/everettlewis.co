@@ -12,5 +12,6 @@ When film was first invented, it was primarily used for cheap entertainment. Wha
 
 <br/>
 <br/>
+<div style="line-height: 2em;">
 
 It's the tired old debate of commerce versus art, but it appears that our creativity has run dry as money is what dominates what films get made today. There are certainly still options for young independent filmmakers and established auteurs to make their films, or even studios to make a product both for monetary and artistic value, but judging the 2021 Golden Globes nominations, it appears that these options for innovative filmmakers to succeed are getting more and more limited.

@@ -7,6 +7,7 @@ description: Knives and Skin Review
 featuredImage: /assets/Knives and Skin.jpg
 ---
 
+<div style="line-height: 2em;">
 
 
 Whereas Twin Peaks tackles the small-town case of a missing teenager with a moody, otherworldly sense of dreaminess and with a rich consult of characters, *Knives and Skin*, the latest film from experimental director Jennifer Reeder, tackles the same subject matter with abrasive levity that feels more like a mentally ill Hallmark movie than the work of a Lynchian prodigy. The comparison to Twin Peaks is rather apt when speaking about the loose beginnings of the plot, but this film, in less than two hours, becomes more of an overstuffed, uneaten turducken than a compelling mystery or an artful satire. Unbound by genre and cinematic conventions, veteran experimental director Jennifer Reeder creates a strange musical-thriller-comedy hybrid that is cerebral and gutsy, but it loses most audiences and attention spans in its mausoleum of loose, pedantic, and thematically infantile ideas.
