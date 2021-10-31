@@ -1,0 +1,18 @@
+---
+title: Sex Education Season 3 Review
+template: blog-post
+date: 2021-10-30 23:00
+slug: /Sex-Education-Season-3
+featuredImage: /assets/sex-education-season-3.jpg
+description: My first TV review, Sex Education Season 3
+---
+
+<div style="line-height: 2em;">
+
+To properly enjoy *Sex Education*, you need to have some willing suspension of disbelief. No real school would have this much sex, nor would teens in such a beautiful suburb of modern-day England dress like they're in the 80s, nor would 3 seasons (nearly 24 hours of voyeurism!) into the most intimate details of these teenagers' private lives have no mention of... actual schooling besides sex. This season of *Sex Education* embraces the chaos that these time-period inconsistencies and the numerous wild and complex relationship dynamics that this giant group of dysfunctional teens and adults create. Unlike the previous season's ending, which hobbled its way to a messy climax, this season of *Sex Education* finds great success in its ability to delve into deeper aspects of relationships, rather than just the simple problems that can be resolved with the most minor of vulnerable emotions.
+
+Yet, the season begins with simple problems and even simpler solutions. Forced conflict is the biggest problem the show faces - sometimes, these conflicts feel rehashed, like they could occur anywhere else in the show with the same characters at different stages of their sexual lives. A gay couple runs into miscommunication because they both expect themselves to be the bottom, but this is drawn out into a full episode, where it's eventually resolved when one of them works up the courage to communicate to the other, after multiple scenes of awkward communication. This formula can be used to describe some of the weaker plot elements of this entire show. But, as the season goes on (one of the show's strongest yet!), the problems of miscommunication become more and more complex: the biggest issue becomes communicating with ourselves. Otis struggles to reconcile his attraction and fondness of Ruby with his passion still for Maeve. Adam tries to find a hobby that expresses his creativity and helps show his love to Eric. Aimee goes to therapy to recover from her trauma from an assault, all the while trying to understand why she feels off about her relationship with Steve. Jackson enjoys spending time with a new non-binary student named Cal, but has problems being friends with a more studious and obsequious Vivienne.
+
+Each of these conflicts, in addition to the complex network of relationships each of these characters have to eachother, highlight the chaos that the season grapples with: each episode is fully packed with scenes that try to help balance these relationships and move the plot and personal growth of each character forward. Unfortunately, some are lost in the mix and left with a satisfying-but-unsatisfying resolution. Others find a glorious and lovable warmth that plays off of this season's focus on mental health and recovery. Like *Ted Lasso*, each conflict and character struggle is simple, but also like *Ted Lasso*, it takes some digging to get to the crux behind what is ailing these broken teenagers. The show may skirt through some questions the audience might have, but it's to leave time to show the messiness of human emotion, and the capacity to grow and learn from high school. Ideally, these characters' personal growth will move forward next season just as much.
+
+
