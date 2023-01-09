@@ -2,7 +2,7 @@
 template: index-page
 slug: /
 title: Everett Lewis
-tagline: 
+tagline: Student of film.
 featuredImage: /assets/New SelfImage.jpg
 cta:
   ctaText: Learn More
